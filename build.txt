@@ -1,0 +1,3 @@
+displayName = SpiritBar
+author = hlw
+version = 0.1
